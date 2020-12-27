@@ -1,5 +1,5 @@
 # void_ texturepack
-A fully procedural PBR texturepack for Minecraft 1.16
+A fully procedural PBR texturepack for Minecraft 1.16 and up
 
 
 # Read this:
